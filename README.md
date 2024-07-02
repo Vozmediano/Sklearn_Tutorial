@@ -4,9 +4,10 @@
 
 ## Scikit-Learn (https://scikit-learn.org/stable/)
 
-En este tutorial vamos a ver una libreria de Python llamada NumPy, muy utilizada para la ciencia de datos e inteligencia artificial por el soporte para crear vectores y matrices grandes multidimensionales, junto con una gran colección de funciones matemáticas de alto nivel para operar con ellas.
+En este tutorial vamos a ver la libreria scikit-learn, también llamada sklearn, es una de las librerías de aprendizaje automático en código abierto más utilizadas del lenguaje de programación Python, por ser de gran ayuda en cuanto al procesamiento, la regresión, la clasificación y la selección de modelos. Contiene una gran variedad de algoritmos de aprendizaje automático y herramientas de procesamiento y análisis de datos.
+Tendremos disponibles diferentes algoritmos de clasificación, regresión, clustering y reducción de dimensionalidad, tambien es compatible con otras librerías de Python como SciPy, Numpy, Pandas, Matplotlib... 
 
-Este tutorial se va a dividir en varias secciones las cuales seran:
+El tutorial se va a dividir en varias secciones las cuales seran:
 
 - Modelo de regresion lineal, una variable
 - Modelo de regresion lineal, multivariable
@@ -23,6 +24,7 @@ Este tutorial se va a dividir en varias secciones las cuales seran:
 - Modelo de clusterizacion, DBSCAN
 - Red neuronal
 
-El tutorial se ha creado en Google Colab por lo que se recomienda la apertura del archivo con la misma herramienta.
+Este tutorial ha sido creado en Google Colab por lo que se recomienda la apertura del archivo con la misma herramienta.
+En la carpeta Data estan todos los archivos que se usaron para los ejercicios.
 
 Espero que sirva de ayuda!!! Gracias :)
