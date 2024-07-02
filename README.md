@@ -8,21 +8,20 @@ En este tutorial vamos a ver una libreria de Python llamada NumPy, muy utilizada
 
 Este tutorial se va a dividir en varias secciones las cuales seran:
 
-- MODELO REGRESION LINEAL UNA VARIABLE
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- C
-- Transponer y Reformar una Matriz
-- Darle la Vuelta a un Array
-- Aplanar Arrays Multidimensionales
-- El Método numpy.linalg
-- Ejercicios de Arrays
+- Modelo de regresion lineal, una variable
+- Modelo de regresion lineal, multivariable
+- Modelo de regresion polinomial
+- Modelo de clasificacion, regresion logistica
+- Modelo de clasificacion, KNN
+- Modelo de clasificacion, Decision Tree
+- Modelo de clasificacion, Random Forest
+- Modelo de clasificacion, Support vector machine (SVM)
+- Reduccion de dimensionalidad, PCA
+- Modelo de clasificacion, Naive Bayes
+- Modelo de clasificacion, HAM O SPAM
+- Modelo de clusterizacion, K-MEANS
+- Modelo de clusterizacion, DBSCAN
+- Red neuronal
 
 El tutorial se ha creado en Google Colab por lo que se recomienda la apertura del archivo con la misma herramienta.
 
