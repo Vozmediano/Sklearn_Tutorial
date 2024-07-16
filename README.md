@@ -1,4 +1,5 @@
-![scikit](https://github.com/Vozmediano/Sklearn_Tutorial/assets/140751734/276235a7-5023-4d49-95e2-c0ae17c9f438)
+
+![Sklearn](https://github.com/user-attachments/assets/7da5a525-6433-4351-a2b5-1407f339c18f)
 
 ## Pagina oficial de [Scikit-Learn](https://scikit-learn.org/stable/)
 
