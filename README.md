@@ -2,7 +2,7 @@
 
 ![scikit](https://github.com/Vozmediano/Sklearn_Tutorial/assets/140751734/276235a7-5023-4d49-95e2-c0ae17c9f438)
 
-## Scikit-Learn (https://scikit-learn.org/stable/)
+## Pagina oficial de [Scikit-Learn](https://scikit-learn.org/stable/)
 
 En este tutorial vamos a ver la libreria scikit-learn, también llamada sklearn, es una de las librerías de aprendizaje automático en código abierto más utilizadas del lenguaje de programación Python, por ser de gran ayuda en cuanto al procesamiento, la regresión, la clasificación y la selección de modelos. Contiene una gran variedad de algoritmos de aprendizaje automático y herramientas de procesamiento y análisis de datos.
 Tendremos disponibles diferentes algoritmos de clasificación, regresión, clustering y reducción de dimensionalidad, tambien es compatible con otras librerías de Python como SciPy, Numpy, Pandas, Matplotlib... 
